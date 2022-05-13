@@ -1,0 +1,34 @@
+{
+    "name": "InputActions",
+    "maps": [
+        {
+            "name": "PCInput",
+            "id": "dbff7109-989c-4bf9-bf81-3319d86ddb9b",
+            "actions": [
+                {
+                    "name": "MouseMovement",
+                    "type": "Value",
+                    "id": "19048eac-09c2-47fc-9979-095df7e94645",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "f314aca8-5555-4b77-9c74-1a54e8a33f27",
+                    "path": "<Mouse>/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MouseMovement",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
